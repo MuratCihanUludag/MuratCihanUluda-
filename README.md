@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratcihanuludag&label=Profile%20views&color=0e75b6&style=flat" alt="muratcihanuludag" /> </p>
 
-- 🔭 I’m currently working on [Admin Deashboard](ASFASFASFASF.com)
+- 🔭 I’m currently working on [Admin Dashboard](ASFASFASFASF.com)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Tailwind, Bootstrap,C#, .NET Core**
 
